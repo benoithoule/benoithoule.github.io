@@ -1,12 +1,13 @@
-head1
+C.V. Benoit Houle
 =====
 
-# test  
+# Expérience de travail
 
-## test2
   
-head2
---------------------
 
-*potato*
+## Information de contacte
+cel.       (819) 918-9059
+courriel : benoit.houle.3@ens.etsmtl.ca
+  
+
 
